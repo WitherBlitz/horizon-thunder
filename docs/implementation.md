@@ -26,7 +26,7 @@ separately from conversion success. Existing worlds are never modified.
 - [x] Add a dependency-free builder; run the narrow and full test suites.
 - [x] Exercise the official Horizon launcher import/port path in isolated
   scratch homes. Inspect conversion notes and generated settings.
-- [ ] Add usage instructions and CI/release automation. Publish to the
+- [x] Add usage instructions and CI/release automation. Publish to the
   user's selected GitHub account after verifying the final artifact.
 - [x] Check the installed launcher/game and generate a fresh test world
   when its location is available; disclose remaining compatibility gaps.
