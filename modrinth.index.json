@@ -1,0 +1,27 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "0.1.0",
+  "name": "Horizon Thunder",
+  "summary": "JJThunder To The Max terrain, converted by Horizon into a separate new-world profile.",
+  "files": [
+    {
+      "path": "mods/jjthunder-to-the-max-0.9.0.jar",
+      "hashes": {
+        "sha1": "66b1c05891c7474567fb253a239c775e2611cca7",
+        "sha512": "d1c838acb00ef071b3efa966330b0e001de61c963ba6d86a801574572824c314adea996b6447feb18ef991910960b28b55106504ece4a372f87ae2b0dd87576d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1NnAVIR5/versions/IgqEqiO9/JJThunder_To_The_Max_26.2_v0.9.0.zip"
+      ],
+      "fileSize": 176180
+    }
+  ],
+  "dependencies": {
+    "minecraft": "26.2"
+  }
+}
